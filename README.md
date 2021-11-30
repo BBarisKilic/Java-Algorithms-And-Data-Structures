@@ -12,3 +12,10 @@ An example that finds a solution to:
 - How to create arraylist of characters from string.
 - How to create string from arraylist of characters with the help of StringBuilder.
 - How to reverse a string.
+
+## [03-Java-Anagrams](03-Java-Anagrams)
+
+An example that finds a solution to:
+- How to create Maps in Java.
+- How to compare Maps and its values.
+- How to detect Anagram.
