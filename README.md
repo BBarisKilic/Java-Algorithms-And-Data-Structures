@@ -1,4 +1,4 @@
-# <p align="center">Java Playground</p>
+# <p align="center">Java Algorithms and Data Structures</p>
 
 ## [01-Java-Substring-Comparisons](01-Java-Substring-Comparisons)
 
@@ -19,3 +19,9 @@ An example that finds a solution to:
 - How to create Maps in Java.
 - How to compare Maps and its values.
 - How to detect Anagram.
+
+## [04-Java-String-Tokens](04-Java-String-Tokens)
+
+An example that finds a solution to:
+- How to split a string.
+- How to remove special characters from a string.
