@@ -25,3 +25,8 @@ An example that finds a solution to:
 An example that finds a solution to:
 - How to split a string.
 - How to remove special characters from a string.
+
+## [05-Pattern-Syntax-Checker](05-Pattern-Syntax-Checker)
+
+An example that finds a solution to:
+//
